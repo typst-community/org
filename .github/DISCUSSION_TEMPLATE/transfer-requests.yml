@@ -1,0 +1,52 @@
+title: "Transfer Request for <Project Name> to typst-community"
+body:
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      description: The name of the project you want to transfer.
+    validations:
+      required: true
+  - type: input
+    id: initial-author
+    attributes:
+      label: Initial Author(s)
+      description: The name of the initial author(s) of the project.
+      placeholder: John Doe
+    validations:
+      required: true
+  - type: input
+    id: current-url
+    attributes:
+      label: Repository URL
+      description: The current repository URL of the project.
+      placeholder: https://github.com/<owner>/<repo>
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status
+      description: The current status of the project.
+      options:
+        - Maintained
+        - Unmaintained
+        - Looking for volunteers
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A concise description of the project.
+      placeholder: This project is.. You can also just link to README.
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: The license of the project.
+      placeholder: MIT
+    validations:
+      required: true
