@@ -3,6 +3,7 @@ This document describes the governance structure of the project and how decision
 ## Organization Governance
 The following member(s) hold ownership positions over the organization:
 - [@huwaireb]
+- [@tingerrr]
 
 > [!NOTE]
 > The numbers of owners is intentionally kept small to allow for quick decision making, and a reduced surface area for attacks. More members may be added as the organization grows through, most likely, a consensus processes, undefined currently.
@@ -15,16 +16,20 @@ This means, by default, they have administrative power over the organization, in
 | [setup-typst]     | [@yusancky]    | [@typst-community/setup-typst] |
 | [typst.js]        | [@jcbhmr]      | None                           |
 | [typst-installer] | [@jcbhmr]      | None                           |
+| [rfcs]            | [@tingerrr]    | [@typst-community/ecosystem]   |
 
 Maintainers have full control over their respective projects and teams.
 If you would like to **add a new project** to the organization please see [Getting Involved](CONTRIBUTING.md#getting-involved).
 
 [@huwaireb]: https://github.com/huwaireb
 [@jcbhmr]: https://github.com/jcbhmr
+[@tingerrr]: https://github.com/tingerrr
 [@yusancky]: https://github.com/yusancky
 
 [@typst-community/setup-typst]: https://github.com/orgs/typst-community/teams/setup-typst
+[@typst-community/ecosystem]: https://github.com/orgs/typst-community/teams/ecosystem
 
 [setup-typst]: https://github.com/typst-community/setup-typst
 [typst.js]: https://github.com/typst-community/typst.js
 [typst-installer]: https://github.com/typst-community/typst-installer
+[rfcs]: https://github.com/typst-community/rfcs
