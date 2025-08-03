@@ -11,19 +11,21 @@ The following member(s) hold ownership positions over the organization:
 This means, by default, they have administrative power over the organization, including the ability to add/remove members, create/delete repositories, and manage the organization's settings. This is a consequence of centralization, and is not ideal. However, it is a necessary evil for the time being. We welcome any suggestions on how to improve this, if you have an idea please open an [issue](https://github.com/typst-community/org/issues/new).
 
 ## Project Governance
-| Project           | Maintainer(s)  | Team                           |
-| ----------------- | -------------- | ------------------------------ |
-| [glossarium]      | [@quachpas]    | None                           |
-| [setup-shiroa]    | [@tingerrr]    | None                           |
-| [setup-typst]     | [@yusancky]    | [@typst-community/setup-typst] |
-| [setup-tytanic]   | [@tingerrr]    | None                           |
-| [tabbyterms]      | [@bluss]       | None                           |
-| [typst.js]        | [@jcbhmr]      | None                           |
-| [typst-install]   | [@jcbhmr]      | None                           |
-| [tytanic]         | [@tingerrr]    | None                           |
-| [rfcs]            | [@tingerrr]    | [@typst-community/ecosystem]   |
-| [rowmantic]       | [@bluss]       | None                           |
-| [utpm]            | [@Thumuss]     | None                           |
+| Project            | Maintainer(s)        | Team                           |
+| ------------------ | -------------------- | ------------------------------ |
+| [glossarium]       | [@quachpas]          | None                           |
+| [setup-hayagriva]  | [@jcbhmr]            | None                           |
+| [setup-shiroa]     | [@tingerrr]          | None                           |
+| [setup-typst]      | [@yusancky]          | [@typst-community/setup-typst] |
+| [setup-tytanic]    | [@tingerrr]          | None                           |
+| [tabbyterms]       | [@bluss]             | None                           |
+| [typst.js]         | [@jcbhmr]            | None                           |
+| [typst-algorithmic]| [@quachpas] & [@lf-] | None                           |
+| [typst-install]    | [@jcbhmr]            | None                           |
+| [tytanic]          | [@tingerrr]          | None                           |
+| [rfcs]             | [@tingerrr]          | [@typst-community/ecosystem]   |
+| [rowmantic]        | [@bluss]             | None                           |
+| [utpm]             | [@Thumuss]           | None                           |
 
 Maintainers have full control over their respective projects and teams.
 If you would like to **add a new project** to the organization please see [Getting Involved](CONTRIBUTING.md#getting-involved).
@@ -31,6 +33,7 @@ If you would like to **add a new project** to the organization please see [Getti
 [@bluss]: https://github.com/bluss
 [@huwaireb]: https://github.com/huwaireb
 [@jcbhmr]: https://github.com/jcbhmr
+[@lf-]: https://github.com/lf-
 [@quachpas]: https://github.com/quachpas
 [@Thumuss]: https://github.com/Thumuss
 [@tingerrr]: https://github.com/tingerrr
@@ -40,11 +43,13 @@ If you would like to **add a new project** to the organization please see [Getti
 [@typst-community/ecosystem]: https://github.com/orgs/typst-community/teams/ecosystem
 
 [glossarium]: https://github.com/typst-community/glossarium
+[setup-hayagriva]: https://github.com/typst-community/setup-hayagriva
 [setup-shiroa]: https://github.com/typst-community/setup-shiroa
 [setup-typst]: https://github.com/typst-community/setup-typst
 [setup-tytanic]: https://github.com/typst-community/setup-tytanic
 [tabbyterms]: https://github.com/typst-community/tabbyterms
 [typst.js]: https://github.com/typst-community/typst.js
+[typst-algorithmic]: https://github.com/typst-community/typst-algorithmic
 [typst-install]: https://github.com/typst-community/typst-install
 [tytanic]: https://github.com/typst-community/tytanic
 [rfcs]: https://github.com/typst-community/rfcs
