@@ -13,18 +13,26 @@ This means, by default, they have administrative power over the organization, in
 ## Project Governance
 | Project           | Maintainer(s)  | Team                           |
 | ----------------- | -------------- | ------------------------------ |
+| [glossarium]      | [@quachpas]    | None                           |
 | [setup-shiroa]    | [@tingerrr]    | None                           |
 | [setup-typst]     | [@yusancky]    | [@typst-community/setup-typst] |
 | [setup-tytanic]   | [@tingerrr]    | None                           |
+| [tabbyterms]      | [@bluss]       | None                           |
 | [typst.js]        | [@jcbhmr]      | None                           |
 | [typst-installer] | [@jcbhmr]      | None                           |
+| [tytanic]         | [@tingerrr]    | None                           |
 | [rfcs]            | [@tingerrr]    | [@typst-community/ecosystem]   |
+| [rowmantic]       | [@bluss]       | None                           |
+| [utpm]            | [@Thumus]      | None                           |
 
 Maintainers have full control over their respective projects and teams.
 If you would like to **add a new project** to the organization please see [Getting Involved](CONTRIBUTING.md#getting-involved).
 
+[@bluss]: https://github.com/bluss
 [@huwaireb]: https://github.com/huwaireb
 [@jcbhmr]: https://github.com/jcbhmr
+[@quachpas]: https://github.com/quachpas
+[@Thumus]: https://github.com/Thumus
 [@tingerrr]: https://github.com/tingerrr
 [@yusancky]: https://github.com/yusancky
 
@@ -34,6 +42,9 @@ If you would like to **add a new project** to the organization please see [Getti
 [setup-shiroa]: https://github.com/typst-community/setup-shiroa
 [setup-typst]: https://github.com/typst-community/setup-typst
 [setup-tytanic]: https://github.com/typst-community/setup-tytanic
+[tabbyterms]: https://github.com/typst-community/tabbyterms
 [typst.js]: https://github.com/typst-community/typst.js
 [typst-installer]: https://github.com/typst-community/typst-installer
 [rfcs]: https://github.com/typst-community/rfcs
+[rowmantic]: https://github.com/typst-community/rowmantic
+[utpm]: https://github.com/typst-community/utpm
