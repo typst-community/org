@@ -16,11 +16,12 @@ These communities in question are the [coq-community](https://github.com/coq-com
 ### What are its goals?
 We follow, in essence, the same goals as the other communities. Namely:
 
-#### Collaborative maintenance of Typst packages and tools
-We aim to provide a central location for the maintenance of Typst packages and tools. 
+#### Collaborative maintenance of Typst projects
+We aim to provide a central location for the maintenance of Typst projects.
 
 Projects can be hosted in typst-community whenever any of the following is the case:
 - **The** author stopped maintaining the project.
+  - Projects which are unmaintaned are placed under governance of the Nursery team, see [GOVERNANCE.md](GOVERNANCE.md#Nursery).
 - **The** project has become a collective work, as several community members are actively working on it.
 - **The** author is still maintaining the project but they want to encourage other community members to participate in its maintenance and possibly take over.
 - **The** project is a tool of general interest and it makes sense to develop it collaboratively.

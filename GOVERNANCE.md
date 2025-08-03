@@ -30,6 +30,21 @@ This means, by default, they have administrative power over the organization, in
 Maintainers have full control over their respective projects and teams.
 If you would like to **add a new project** to the organization please see [Getting Involved](CONTRIBUTING.md#getting-involved).
 
+### Nursery
+When a transfer request is completed for an unmaintained project, it is automatically placed under governance of the [@typst-community/nursery] team.
+
+Every member of this team may triage issues, merge PRs, or create releases for such a project.
+The extent of work put into the maintenance of such a project is up to each member of the team.
+Nursery maintenance typically means minimum maintenance until a new maintainer is found, this means that bugs are fixed, but features may not be implemented.
+
+If an active collaborator of such a project is willing to take over maintenance of the project the Nursery team will invite them to the organization to add them as a maintainer.
+After some time the Nursery team may decide to down from the project and fully transferring governance to the new maintainer.
+Such a transfer will (where possible) be done in accordance with the original maintainer.
+
+Ownership transfers from and to the Nursery team may be announced to let the community and the Typst team know about the change in maintainers.
+This way no issues should arise when new versions of packages are being published to the Typst Universe by the new maintainers.
+
+
 [@bluss]: https://github.com/bluss
 [@huwaireb]: https://github.com/huwaireb
 [@jcbhmr]: https://github.com/jcbhmr
@@ -39,8 +54,9 @@ If you would like to **add a new project** to the organization please see [Getti
 [@tingerrr]: https://github.com/tingerrr
 [@yusancky]: https://github.com/yusancky
 
-[@typst-community/setup-typst]: https://github.com/orgs/typst-community/teams/setup-typst
 [@typst-community/ecosystem]: https://github.com/orgs/typst-community/teams/ecosystem
+[@typst-community/nursery]: https://github.com/orgs/typst-community/teams/setup-typst
+[@typst-community/setup-typst]: https://github.com/orgs/typst-community/teams/setup-typst
 
 [glossarium]: https://github.com/typst-community/glossarium
 [setup-hayagriva]: https://github.com/typst-community/setup-hayagriva
