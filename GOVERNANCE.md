@@ -13,7 +13,9 @@ This means, by default, they have administrative power over the organization, in
 ## Project Governance
 | Project           | Maintainer(s)  | Team                           |
 | ----------------- | -------------- | ------------------------------ |
+| [setup-shiroa]    | [@tingerrr]    | None                           |
 | [setup-typst]     | [@yusancky]    | [@typst-community/setup-typst] |
+| [setup-tytanic]   | [@tingerrr]    | None                           |
 | [typst.js]        | [@jcbhmr]      | None                           |
 | [typst-installer] | [@jcbhmr]      | None                           |
 | [rfcs]            | [@tingerrr]    | [@typst-community/ecosystem]   |
@@ -29,7 +31,9 @@ If you would like to **add a new project** to the organization please see [Getti
 [@typst-community/setup-typst]: https://github.com/orgs/typst-community/teams/setup-typst
 [@typst-community/ecosystem]: https://github.com/orgs/typst-community/teams/ecosystem
 
+[setup-shiroa]: https://github.com/typst-community/setup-shiroa
 [setup-typst]: https://github.com/typst-community/setup-typst
+[setup-tytanic]: https://github.com/typst-community/setup-tytanic
 [typst.js]: https://github.com/typst-community/typst.js
 [typst-installer]: https://github.com/typst-community/typst-installer
 [rfcs]: https://github.com/typst-community/rfcs
