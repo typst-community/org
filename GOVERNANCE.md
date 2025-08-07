@@ -55,7 +55,7 @@ This way no issues should arise when new versions of packages are being publishe
 [@yusancky]: https://github.com/yusancky
 
 [@typst-community/ecosystem]: https://github.com/orgs/typst-community/teams/ecosystem
-[@typst-community/nursery]: https://github.com/orgs/typst-community/teams/setup-typst
+[@typst-community/nursery]: https://github.com/orgs/typst-community/teams/nursery
 [@typst-community/setup-typst]: https://github.com/orgs/typst-community/teams/setup-typst
 
 [glossarium]: https://github.com/typst-community/glossarium
