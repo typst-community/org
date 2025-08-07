@@ -44,6 +44,13 @@ Such a transfer will (where possible) be done in accordance with the original ma
 Ownership transfers from and to the Nursery team may be announced to let the community and the Typst team know about the change in maintainers.
 This way no issues should arise when new versions of packages are being published to the Typst Universe by the new maintainers.
 
+The following projects are at least in part or wholly maintained by the nursery team.
+
+| Project     | Original Maintainer(s) |
+| ----------- | ---------------------- |
+| [harbinger] | [@DVDTSB]              |
+| [valkyrie]  | [@jamesrswift]         |
+
 
 [@bluss]: https://github.com/bluss
 [@huwaireb]: https://github.com/huwaireb
@@ -59,6 +66,7 @@ This way no issues should arise when new versions of packages are being publishe
 [@typst-community/setup-typst]: https://github.com/orgs/typst-community/teams/setup-typst
 
 [glossarium]: https://github.com/typst-community/glossarium
+[harbinger]: https://github.com/typst-community/harbinger
 [setup-hayagriva]: https://github.com/typst-community/setup-hayagriva
 [setup-shiroa]: https://github.com/typst-community/setup-shiroa
 [setup-typst]: https://github.com/typst-community/setup-typst
@@ -71,3 +79,4 @@ This way no issues should arise when new versions of packages are being publishe
 [rfcs]: https://github.com/typst-community/rfcs
 [rowmantic]: https://github.com/typst-community/rowmantic
 [utpm]: https://github.com/typst-community/utpm
+[valkyrie]: https://github.com/typst-community/valkyrie
