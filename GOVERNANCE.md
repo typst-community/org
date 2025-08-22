@@ -14,17 +14,17 @@ This means, by default, they have administrative power over the organization, in
 | Project            | Maintainer(s)        | Team                           |
 | ------------------ | -------------------- | ------------------------------ |
 | [glossarium]       | [@quachpas]          | None                           |
+| [rfcs]             | [@tingerrr]          | [@typst-community/ecosystem]   |
+| [rowmantic]        | [@bluss]             | None                           |
 | [setup-hayagriva]  | [@jcbhmr]            | None                           |
 | [setup-shiroa]     | [@tingerrr]          | None                           |
 | [setup-typst]      | [@yusancky]          | [@typst-community/setup-typst] |
 | [setup-tytanic]    | [@tingerrr]          | None                           |
 | [tabbyterms]       | [@bluss]             | None                           |
-| [typst.js]         | [@jcbhmr]            | None                           |
 | [typst-algorithmic]| [@quachpas] & [@lf-] | None                           |
 | [typst-install]    | [@jcbhmr]            | None                           |
+| [typst.js]         | [@jcbhmr]            | None                           |
 | [tytanic]          | [@tingerrr]          | None                           |
-| [rfcs]             | [@tingerrr]          | [@typst-community/ecosystem]   |
-| [rowmantic]        | [@bluss]             | None                           |
 | [utpm]             | [@Thumuss]           | None                           |
 
 Maintainers have full control over their respective projects and teams.
@@ -51,31 +51,31 @@ The following projects are at least in part or wholly maintained by the nursery 
 | [valkyrie]  | [@jamesrswift]         |
 
 
+[@Thumuss]: https://github.com/Thumuss
 [@bluss]: https://github.com/bluss
 [@huwaireb]: https://github.com/huwaireb
+[@jamesrswift]: https://github.com/jamesrswift
 [@jcbhmr]: https://github.com/jcbhmr
 [@lf-]: https://github.com/lf-
 [@quachpas]: https://github.com/quachpas
-[@Thumuss]: https://github.com/Thumuss
 [@tingerrr]: https://github.com/tingerrr
 [@yusancky]: https://github.com/yusancky
-[@jamesrswift]: https://github.com/jamesrswift
 
 [@typst-community/ecosystem]: https://github.com/orgs/typst-community/teams/ecosystem
 [@typst-community/nursery]: https://github.com/orgs/typst-community/teams/nursery
 [@typst-community/setup-typst]: https://github.com/orgs/typst-community/teams/setup-typst
 
 [glossarium]: https://github.com/typst-community/glossarium
+[rfcs]: https://github.com/typst-community/rfcs
+[rowmantic]: https://github.com/typst-community/rowmantic
 [setup-hayagriva]: https://github.com/typst-community/setup-hayagriva
 [setup-shiroa]: https://github.com/typst-community/setup-shiroa
 [setup-typst]: https://github.com/typst-community/setup-typst
 [setup-tytanic]: https://github.com/typst-community/setup-tytanic
 [tabbyterms]: https://github.com/typst-community/tabbyterms
-[typst.js]: https://github.com/typst-community/typst.js
 [typst-algorithmic]: https://github.com/typst-community/typst-algorithmic
 [typst-install]: https://github.com/typst-community/typst-install
+[typst.js]: https://github.com/typst-community/typst.js
 [tytanic]: https://github.com/typst-community/tytanic
-[rfcs]: https://github.com/typst-community/rfcs
-[rowmantic]: https://github.com/typst-community/rowmantic
 [utpm]: https://github.com/typst-community/utpm
 [valkyrie]: https://github.com/typst-community/valkyrie
