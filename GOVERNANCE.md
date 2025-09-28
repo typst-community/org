@@ -23,6 +23,7 @@ This means, by default, they have administrative power over the organization, in
 | [setup-tytanic]    | [@tingerrr]          | None           |
 | [tabbyterms]       | [@bluss]             | None           |
 | [typst-algorithmic]| [@quachpas] & [@lf-] | None           |
+| [typst-docs-web]   | [@3w36zj6]           | [@i18n/jp]     |
 | [typst-install]    | [@jcbhmr]            | None           |
 | [typst.js]         | [@jcbhmr]            | None           |
 | [tytanic]          | [@tingerrr]          | None           |
@@ -52,6 +53,7 @@ The following projects are at least in part or wholly maintained by the nursery 
 | [valkyrie]  | [@jamesrswift]         |
 
 
+[@3w36zj6]: https://github.com/3w36zj6
 [@Thumuss]: https://github.com/Thumuss
 [@bluss]: https://github.com/bluss
 [@huwaireb]: https://github.com/huwaireb
@@ -64,6 +66,7 @@ The following projects are at least in part or wholly maintained by the nursery 
 [@yusancky]: https://github.com/yusancky
 
 [@ecosystem]: https://github.com/orgs/typst-community/teams/ecosystem
+[@i18n/jp]: https://github.com/orgs/typst-community/teams/jp
 [@nursery]: https://github.com/orgs/typst-community/teams/nursery
 [@setup-typst]: https://github.com/orgs/typst-community/teams/setup-typst
 
