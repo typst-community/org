@@ -13,6 +13,7 @@ This means, by default, they have administrative power over the organization, in
 ## Project Governance
 | Project            | Maintainer(s)        | Team           |
 | ------------------ | -------------------- | -------------- |
+| [dev-builds]       | [@YDX-2147483647]    | None           |
 | [glossarium]       | [@quachpas]          | None           |
 | [rfcs]             | [@tingerrr]          | [@ecosystem]   |
 | [rowmantic]        | [@bluss]             | None           |
@@ -59,6 +60,7 @@ The following projects are at least in part or wholly maintained by the nursery 
 [@lf-]: https://github.com/lf-
 [@quachpas]: https://github.com/quachpas
 [@tingerrr]: https://github.com/tingerrr
+[@YDX-2147483647]: https://github.com/YDX-2147483647
 [@yusancky]: https://github.com/yusancky
 
 [@ecosystem]: https://github.com/orgs/typst-community/teams/ecosystem
