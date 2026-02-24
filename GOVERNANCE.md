@@ -14,6 +14,7 @@ This means, by default, they have administrative power over the organization, in
 | Project            | Maintainer(s)        | Team           |
 | ------------------ | -------------------- | -------------- |
 | [dev-builds]       | [@YDX-2147483647]    | None           |
+| [extra-docs]       | [@YDX-2147483647]    | None           |
 | [glossarium]       | [@quachpas]          | None           |
 | [rfcs]             | [@tingerrr]          | [@ecosystem]   |
 | [rowmantic]        | [@bluss]             | None           |
@@ -33,7 +34,7 @@ Maintainers have full control over their respective projects and teams.
 If you would like to **add a new project** to the organization please see [Getting Involved](CONTRIBUTING.md#getting-involved).
 
 ### Nursery
-When a transfer request is completed for an unmaintained project, it is automatically placed under governance of the [@typst-community/nursery] team.
+When a transfer request is completed for an unmaintained project, it is automatically placed under governance of the [@nursery] team.
 
 Every member of this team may triage issues, merge PRs, or create releases for such a project.
 The extent of work put into the maintenance of such a project is up to each member of the team.
@@ -48,19 +49,21 @@ This way no issues should arise when new versions of packages are being publishe
 
 The following projects are at least in part or wholly maintained by the nursery team.
 
-| Project     | Original Maintainer(s) |
-| ----------- | ---------------------- |
-| [valkyrie]  | [@jamesrswift]         |
+| Project                 | Original Maintainer(s) |
+| ----------------------- | ---------------------- |
+| [valkyrie]              | [@jamesrswift]         |
+| [wasm-minimal-protocol] | [@astrale-sharp]       |
 
 
 [@3w36zj6]: https://github.com/3w36zj6
-[@Thumuss]: https://github.com/Thumuss
+[@astrale-sharp]: https://github.com/astrale-sharp
 [@bluss]: https://github.com/bluss
 [@huwaireb]: https://github.com/huwaireb
 [@jamesrswift]: https://github.com/jamesrswift
 [@jcbhmr]: https://github.com/jcbhmr
 [@lf-]: https://github.com/lf-
 [@quachpas]: https://github.com/quachpas
+[@Thumuss]: https://github.com/Thumuss
 [@tingerrr]: https://github.com/tingerrr
 [@YDX-2147483647]: https://github.com/YDX-2147483647
 [@yusancky]: https://github.com/yusancky
@@ -70,6 +73,8 @@ The following projects are at least in part or wholly maintained by the nursery 
 [@nursery]: https://github.com/orgs/typst-community/teams/nursery
 [@setup-typst]: https://github.com/orgs/typst-community/teams/setup-typst
 
+[dev-builds]: https://github.com/typst-community/dev-builds
+[extra-docs]: https://github.com/typst-community/extra-docs
 [glossarium]: https://github.com/typst-community/glossarium
 [rfcs]: https://github.com/typst-community/rfcs
 [rowmantic]: https://github.com/typst-community/rowmantic
@@ -79,8 +84,10 @@ The following projects are at least in part or wholly maintained by the nursery 
 [setup-tytanic]: https://github.com/typst-community/setup-tytanic
 [tabbyterms]: https://github.com/typst-community/tabbyterms
 [typst-algorithmic]: https://github.com/typst-community/typst-algorithmic
+[typst-docs-web]: https://github.com/typst-community/typst-docs-web
 [typst-install]: https://github.com/typst-community/typst-install
 [typst.js]: https://github.com/typst-community/typst.js
 [tytanic]: https://github.com/typst-community/tytanic
 [utpm]: https://github.com/typst-community/utpm
 [valkyrie]: https://github.com/typst-community/valkyrie
+[wasm-minimal-protocol]: https://github.com/typst-community/wasm-minimal-protocol
