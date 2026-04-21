@@ -6,9 +6,9 @@ The following member(s) hold ownership positions over the organization:
 - [@tingerrr]
 
 > [!NOTE]
-> The numbers of owners is intentionally kept small to allow for quick decision making, and a reduced surface area for attacks. More members may be added as the organization grows through, most likely, a consensus processes, undefined currently.
+> The number of owners is intentionally kept small to allow for quick decision making, and a reduced surface area for attacks. More members may be added as the organization grows through, most likely, a consensus process, undefined currently.
 
-This means, by default, they have administrative power over the organization, including the ability to add/remove members, create/delete repositories, and manage the organization's settings. This is a consequence of centralization, and is not ideal. However, it is a necessary evil for the time being. We welcome any suggestions on how to improve this, if you have an idea please open an [issue](https://github.com/typst-community/org/issues/new).
+This means, by default, they have administrative power over the organization, including the ability to add/remove members, create/delete repositories, and manage the organization's settings. This is a consequence of centralization, and is not ideal. However, it is a necessary evil for the time being. We welcome any suggestions on how to improve this. If you have an idea, please open an [issue](https://github.com/typst-community/org/issues/new).
 
 ## Project Governance
 | Project            | Maintainer(s)        | Team           |
@@ -31,17 +31,17 @@ This means, by default, they have administrative power over the organization, in
 | [utpm]             | [@Thumuss]           | None           |
 
 Maintainers have full control over their respective projects and teams.
-If you would like to **add a new project** to the organization please see [Getting Involved](CONTRIBUTING.md#getting-involved).
+If you would like to **add a new project** to the organization, please see [Getting Involved](CONTRIBUTING.md#getting-involved).
 
 ### Nursery
-When a transfer request is completed for an unmaintained project, it is automatically placed under governance of the [@nursery] team.
+When a transfer request is completed for an unmaintained project, it is automatically placed under the governance of the [@nursery] team.
 
 Every member of this team may triage issues, merge PRs, or create releases for such a project.
 The extent of work put into the maintenance of such a project is up to each member of the team.
-Nursery maintenance typically means minimum maintenance until a new maintainer is found, this means that bugs are fixed, but features may not be implemented.
+Nursery maintenance typically means minimum maintenance until a new maintainer is found; this means that bugs are fixed, but features may not be implemented.
 
-If an active collaborator of such a project is willing to take over maintenance of the project the Nursery team will invite them to the organization to add them as a maintainer.
-After some time the Nursery team may decide to down from the project and fully transferring governance to the new maintainer.
+If an active collaborator of such a project is willing to take over maintenance of the project, the Nursery team will invite them to the organization to add them as a maintainer.
+After some time, the Nursery team may decide to step down from the project and fully transfer governance to the new maintainer.
 Such a transfer will (where possible) be done in accordance with the original maintainer.
 
 Ownership transfers from and to the Nursery team may be announced to let the community and the Typst team know about the change in maintainers.
