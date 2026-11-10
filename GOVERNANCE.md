@@ -2,8 +2,10 @@ This document describes the governance structure of the project and how decision
 
 ## Organization Governance
 The following member(s) hold ownership positions over the organization:
-- [@huwaireb]
 - [@tingerrr]
+
+The following member(s) previously held ownership positions over the organization:
+- [@huwaireb]
 
 > [!NOTE]
 > The number of owners is intentionally kept small to allow for quick decision making, and a reduced surface area for attacks. More members may be added as the organization grows through, most likely, a consensus process, undefined currently.
